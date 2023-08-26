@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.time-box {
+   margin-top: 150px;
+   border-radius: 10px;
+}
+.name {
+    opacity: .8;
+}
+.project-name {
+    font-weight: 600;
+    margin-bottom: 220px;
+}
+.time-container {
+    left: 0px;
+    right: 0px;
+    top: 110px;
+    padding: 20px 0px;
+}
+h1 {
+    font-size: 60px;
+    font-weight: 500;
+}
+.btn-pause {
+    left: 18%;
+    bottom: 13%;
+}
+.btn-start {
+    bottom: 13%;
+    left: 45.5%;
+}
+.btn-reset {
+    bottom: 13%;
+    right: 19.5%;
+}
+.btn:focus {
+box-shadow: none;
+}
+.time-name {
+    font-size: 14px;
+    opacity: .6;
+}
+.isto {
+    opacity: .6;
+}
